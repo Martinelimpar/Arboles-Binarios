@@ -370,7 +370,7 @@ public class Main {
 
 class Nodo {
     String dato;
-    Nodo izq;  
+    Nodo izq;
     Nodo der;
     int altura;
 
